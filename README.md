@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/muzaprogrammer">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muzaprogrammer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muzaprogrammer&layout=compact&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muzaprogrammer&layout=compact&langs_count=20&theme=merko"/>
 </a>
 </p>
